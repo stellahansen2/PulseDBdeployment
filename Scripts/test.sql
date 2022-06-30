@@ -1,1 +1,1 @@
-@../Procedures/secure_dm.sql
+@../Procedures/secure_dml.sql
