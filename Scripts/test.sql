@@ -1,1 +1,1 @@
-@../Procedures/secure_dml.sql;
+//a script to call a stored procedure
