@@ -1,2 +1,1 @@
-//a script to call a stored procedure
-//@../Procedures/test_sp.sql;
+@../Procedures/TEST_CI_CD.sql;
