@@ -1,1 +1,1 @@
-@../Procedures/TEST_CI_CD.sql 'other';
+@../Procedures/TEST_CI_CD.sql 'stella1';
