@@ -8,4 +8,4 @@ CREATE TABLE "GPC"."CX_TEST_CICD_SCRIPT"
   );
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (13, 'Stella', 'Not changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'stella1', 'Not changed');
-
+@../Procedures/TEST_CI_CD.sql;
