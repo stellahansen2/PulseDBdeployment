@@ -1,1 +1,1 @@
-@../Procedures/TEST_CI_CD.sql;
+exec @../Procedures/TEST_CI_CD.sql;
