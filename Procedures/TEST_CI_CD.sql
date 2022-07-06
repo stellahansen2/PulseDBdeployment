@@ -1,4 +1,4 @@
-
+insert into "GPC"."CX_TEST_CICD_SCRIPT" values (11, 'stella2', 'Not changed');
 
 create or replace PROCEDURE TEST_CI_CD AS 
 
