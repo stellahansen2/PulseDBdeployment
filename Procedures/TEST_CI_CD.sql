@@ -14,7 +14,7 @@ FOR csr_test_v IN csr_test LOOP
             where TABLECHANGED = 'changed';
               
           EXCEPTION when OTHERS then
-            null;  
+            raise_application_error(-20010,'Error');
           end;  
           
     end LOOP;
