@@ -11,4 +11,3 @@ insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'stella1', 'not Changed');
 @../Procedures/TEST_CI_CD.sql;
 
 #I added this comment to the script
-#I'm updating this file lol
