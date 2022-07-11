@@ -16,8 +16,4 @@ insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'stella1', 'not Changed');
 #hey
 #i added this on my local
 #added this
-<<<<<<< HEAD
-added this
-=======
-#hey
->>>>>>> 3f621249191858feeaf29bc212d327aa8f8454bc
+#another
