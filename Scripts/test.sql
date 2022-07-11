@@ -1,1 +1,2 @@
-@../Procedures/TEST_CI_CD.sql;
+@Procedures/TEST_CI_CD.sql;
+#I added this on my local
