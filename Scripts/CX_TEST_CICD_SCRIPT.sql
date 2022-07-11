@@ -10,10 +10,3 @@ insert into "GPC"."CX_TEST_CICD_SCRIPT" values (13, 'Stella', 'changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'stella1', 'not Changed');
 @Procedures/TEST_CI_CD.sql;
 
-#something
-#hey
-#hey
-#hey
-#i added this on my local
-#added this
-#another another s j d
