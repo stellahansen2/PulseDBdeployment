@@ -25,6 +25,3 @@ FOR csr_test_v IN csr_test LOOP
 END TEST_CI_CD;
 /
 
-
-
-
