@@ -24,9 +24,5 @@ FOR csr_test_v IN csr_test LOOP
   
 END TEST_CI_CD;
 /
-/*made a change on local
-/* I made another change
-#I added this
-#another one
-*/
-/1 one
+
+1 one
