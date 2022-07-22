@@ -9,5 +9,6 @@ CREATE TABLE "GPC"."CX_TEST_CICD_SCRIPT"
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (10, 'Stella', 'changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (11, 'Rushil', 'not changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'Zach', 'not changed');
+insert into "GPC"."CX_TEST_CICD_SCRIPT" values (13, 'Abby', 'changed');
 
 
