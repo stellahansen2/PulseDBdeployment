@@ -6,8 +6,8 @@ CREATE TABLE "GPC"."CX_TEST_CICD_SCRIPT"
   , NAME VARCHAR2(20)
   , TABLECHANGED VARCHAR2(20)
   );
-insert into "GPC"."CX_TEST_CICD_SCRIPT" values (13, 'Stella', 'changed');
-insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'stella1', 'not Changed');
-@Procedures/TEST_CI_CD.sql;
+insert into "GPC"."CX_TEST_CICD_SCRIPT" values (10, 'Stella', 'changed');
+insert into "GPC"."CX_TEST_CICD_SCRIPT" values (11, 'Rushil', 'not changed');
+insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'Zach', 'not changed');
 
 
