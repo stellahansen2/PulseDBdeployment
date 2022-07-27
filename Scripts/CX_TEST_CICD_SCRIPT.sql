@@ -12,3 +12,4 @@ insert into "GPC"."CX_TEST_CICD_SCRIPT" values (12, 'Zach', 'not changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (13, 'Abby', 'changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (14, 'Christian', 'changed');
 insert into "GPC"."CX_TEST_CICD_SCRIPT" values (14, 'Sean', 'changed');
+insert into "GPC"."CX_TEST_CICD_SCRIPT" values (14, 'Raj', 'changed');
